@@ -62,7 +62,7 @@ class JunitCallWebservice2 {
 	 * assertTrue("YES", Arrays.equals(array,array1));
 	 * 
 	 * 
-	 * assertEquals("should have gotten " + array + "\n" +" but instead got " +
+	 *   aaaaaaaaaaaaa  n  xxxxxxx assertEquals("should have gotten " + array + "\n" +" but instead got " +
 	 * array1+ "\n", array, array1);
 	 * 
 	 * 
